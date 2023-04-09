@@ -69,7 +69,6 @@ This section will include resources for participating on The Graph's decentraliz
 
 ### Delegators
 - [Graphtronauts](https://graphtronauts.com/)
-- 
 
 ### Subgraph Developers
 - [SubgraphDAO](https://twitter.com/SubgraphDAO)
