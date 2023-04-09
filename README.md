@@ -65,8 +65,12 @@ This section will include resources for participating on The Graph's decentraliz
 - [Indexer Office Hours](https://twitter.com/TheGraphIOH)
 
 ### Curators
-
+- [Curation Station](https://t.me/CurationStation) Telegram group.
 
 ### Delegators
+- [Graphtronauts](https://graphtronauts.com/)
+- 
 
 ### Subgraph Developers
+- [SubgraphDAO](https://twitter.com/SubgraphDAO)
+- [Overview of Subgraph Development](https://thegraph.com/docs/en/network/developing/)
