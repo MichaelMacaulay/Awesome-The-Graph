@@ -4,7 +4,7 @@
 
 A curated list of awesome resources related to [The Graph](https://thegraph.com/).
 
-If you're looking for a place to start, check out the [this blog post](https://thegraph.com/blog/introduction-to-the-graph/).
+If you're looking for a beginner-friendly place to start, check out the [this blog post](https://thegraph.com/blog/introduction-to-the-graph/).
 
 If you run into any terms or phrases that you don't understand, check out [The Graph's Glossary](https://thegraph.com/docs/en/glossary/).
 
