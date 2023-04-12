@@ -8,6 +8,8 @@ If you're looking for a beginner-friendly place to start, check out the [this bl
 
 If you run into any terms or phrases that you don't understand, check out [The Graph's Glossary](https://thegraph.com/docs/en/glossary/).
 
+Sign up to [The Graph's Developer Newsletter](https://bdf2eca9.sibforms.com/serve/MUIEAAP7mWSFRPoNIyFZSMhS9Sk0tvGPKSB0rcRoOaSmWy61ZXpAgue6ZyIzhsJoeqHwkKg0kWAAQeHLH9XK5Blg6wT00da6JPIW_BrBoMl87K2_KmK_E4ltKbxfQCgQ2uXK0mE8SPIbXESbXIVxZEVinCtlNqF3ctoPjPyMqB8QP-ps9SAnWfpopp6loRHJe7wSSFRswUuBoB0K) for new tutorials, tips, and ecosystem updates!
+
 ## Contents
 
 - [Awesome-The-Graph](#awesome-the-graph)
@@ -50,8 +52,8 @@ If you run into any terms or phrases that you don't understand, check out [The G
 
 
 ## Tutorials
-- [Migrate a subgraph to The Graph's decentralized network](https://thegraph.com/docs/en/cookbook/migrating-a-subgraph/)
 - [Quick Start](https://thegraph.com/docs/en/cookbook/quick-start/)
+- [Migrate a subgraph to The Graph's decentralized network](https://thegraph.com/docs/en/cookbook/migrating-a-subgraph/)
 - [Easily Improve Subgraph Indexing Performance](https://thegraph.com/blog/improve-subgraph-performance-reduce-eth-calls/)
 - [Using Subgraphs on Base Testnet](https://www.youtube.com/watch?v=mwgN9vwLOBw)
 - [The Complete Guide to Getting Started With The Graph](https://camiinthisthang.hashnode.dev/the-complete-guide-to-getting-started-with-the-graph)
