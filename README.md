@@ -87,7 +87,8 @@ This section will include resources for participating on The Graph's decentraliz
 
 ### Delegators
 - [Graphtronauts](https://graphtronauts.com/)
-- [Delegation Guide](https://thegraph.com/docs/en/network/delegating/)
+- [Short Delegation Tutorial](https://www.youtube.com/watch?v=yQamugqJlmQ)
+- [Advanced Delegation Guide](https://thegraph.com/docs/en/network/delegating/)
 
 ### Subgraph Developers
 - [Overview of Subgraph Development](https://thegraph.com/docs/en/network/developing/)
