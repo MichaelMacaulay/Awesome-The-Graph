@@ -14,10 +14,10 @@ Sign up to [The Graph's Developer Newsletter](https://bdf2eca9.sibforms.com/serv
 
 - [Awesome-The-Graph](#awesome-the-graph)
   - [Contents](#contents)
-  - [Community](#community)
   - [Educational resources](#educational-resources)
   - [Tutorials](#tutorials)
   - [Media](#media)
+  - [Community](#community)
   - [Community events](#community-events)
   - [Dapps](#dapps)
   - [Participating on The Graph's decentralized network](#participating-on-the-graphs-decentralized-network)
@@ -28,16 +28,6 @@ Sign up to [The Graph's Developer Newsletter](https://bdf2eca9.sibforms.com/serv
     - [Data Consumers](#data-consumers)
   - [Core developer teams](#core-developer-teams)
   - [Join a core developer team](#join-a-core-developer-team)
-
-## Community
-
-- [Forum](https://forum.thegraph.com/)
-- [Telegram](https://t.me/graphprotocol)
-- [Discord](https://discord.gg/vtvv7FP)
-- [Twitter](https://twitter.com/thegraph)
-- [Reddit](https://www.reddit.com/r/thegraph/)
-- [Graphrica](https://www.graphrica.org/)
-- [Graph Advocates](https://thegraph.com/blog/graph-advocates/)
 
 ## Educational resources
 
@@ -64,6 +54,16 @@ Sign up to [The Graph's Developer Newsletter](https://bdf2eca9.sibforms.com/serv
 - [YouTube](https://www.youtube.com/graphprotocol)
 - [GRTiQ](https://www.grtiq.com/)
 - [Quarterly Graph Participant Updates](https://www.youtube.com/playlist?list=PLTqyKgxaGF3SerCqOuIT-FdaXZASg3U-C) - YouTube playlist
+
+## Community
+
+- [Forum](https://forum.thegraph.com/)
+- [Telegram](https://t.me/graphprotocol)
+- [Discord](https://discord.gg/vtvv7FP)
+- [Twitter](https://twitter.com/thegraph)
+- [Reddit](https://www.reddit.com/r/thegraph/)
+- [Graphrica](https://www.graphrica.org/)
+- [Graph Advocates](https://thegraph.com/blog/graph-advocates/)
 
 ## Community events
 - [Core dev meetings](https://calendar.google.com/calendar/u/0/embed?src=info@thegraph.foundation)
