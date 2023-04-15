@@ -14,6 +14,7 @@ Sign up to [The Graph's Developer Newsletter](https://bdf2eca9.sibforms.com/serv
 
 - [Awesome-The-Graph](#awesome-the-graph)
   - [Contents](#contents)
+  - [Libraries and frameworks](#libraries-and-frameworks)
   - [Educational resources](#educational-resources)
   - [Tutorials](#tutorials)
   - [Media](#media)
@@ -29,6 +30,12 @@ Sign up to [The Graph's Developer Newsletter](https://bdf2eca9.sibforms.com/serv
   - [Core developer teams](#core-developer-teams)
   - [Join a core developer team](#join-a-core-developer-team)
 
+## Libraries and frameworks
+- [The Graph TypeScript Library](https://github.com/graphprotocol/graph-tooling/tree/main/packages/ts)
+- [The Graph Client](https://github.com/graphprotocol/graph-client)
+- [The Graph CLI](https://github.com/graphprotocol/graph-tooling/tree/main/packages/cli)
+- [Graph Node](https://github.com/graphprotocol/graph-node)
+
 ## Educational resources
 
 - [Introduction to The Graph](https://thegraph.com/blog/introduction-to-the-graph/)
@@ -39,6 +46,7 @@ Sign up to [The Graph's Developer Newsletter](https://bdf2eca9.sibforms.com/serv
 - [The Graph's Glossary](https://thegraph.com/docs/en/glossary/)
 - [Blog Posts](https://thegraph.com/blog/)
 - [The Graph Codex](https://codex.thegraph.com/)
+- [The Graph's Smart Contracts](https://github.com/graphprotocol/contracts)
 
 
 ## Tutorials
@@ -58,6 +66,7 @@ Sign up to [The Graph's Developer Newsletter](https://bdf2eca9.sibforms.com/serv
 ## Community
 
 - [Forum](https://forum.thegraph.com/)
+- [Graph Improvement Proposol Repo](https://github.com/graphprotocol/graph-improvement-proposals)
 - [Telegram](https://t.me/graphprotocol)
 - [Discord](https://discord.gg/vtvv7FP)
 - [Twitter](https://twitter.com/thegraph)
@@ -79,9 +88,12 @@ Sign up to [The Graph's Developer Newsletter](https://bdf2eca9.sibforms.com/serv
 This section will include resources for participating on The Graph's decentralized network as one of the [network roles](https://thegraph.com/docs/en/#network-roles): Indexer, Curator, Delegator, Subgraph Developer, or Data Consumer.
 
 ### Indexers
+- [Indexer components & infrastructure](https://github.com/graphprotocol/indexer)
 - [How to become an effective Indexer](https://thegraph.com/blog/how-to-become-indexer/)
 - [Indexing documentation](https://thegraph.com/docs/en/network/indexing/)
 - [Indexer Office Hours](https://twitter.com/TheGraphIOH)
+- [Allocation Optimizer](https://github.com/graphprotocol/allocation-optimizer)
+- [AutoAgora](https://github.com/semiotic-ai/autoagora)
 
 ### Curators
 - [Curation Station](https://t.me/CurationStation) - Telegram group
