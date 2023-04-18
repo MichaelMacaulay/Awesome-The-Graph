@@ -103,6 +103,7 @@ This section will include resources for participating on The Graph's decentraliz
 - [Graphtronauts](https://graphtronauts.com/)
 - [Short Delegation Tutorial](https://www.youtube.com/watch?v=yQamugqJlmQ)
 - [Advanced Delegation Guide](https://thegraph.com/docs/en/network/delegating/)
+- [Choosing an Indexer to delegate GRT to](https://thegraph.academy/delegators/choosing-indexers/)
 
 ### Subgraph Developers
 - [Overview of Subgraph Development](https://thegraph.com/docs/en/network/developing/)
