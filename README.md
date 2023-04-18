@@ -89,11 +89,11 @@ This section will include resources for participating on The Graph's decentraliz
 
 ### Indexers
 - [Indexer components & infrastructure](https://github.com/graphprotocol/indexer)
-- [How to become an effective Indexer](https://thegraph.com/blog/how-to-become-indexer/)
-- [Indexing documentation](https://thegraph.com/docs/en/network/indexing/)
-- [Indexer Office Hours](https://twitter.com/TheGraphIOH)
 - [Allocation Optimizer](https://github.com/graphprotocol/allocation-optimizer)
 - [AutoAgora](https://github.com/semiotic-ai/autoagora)
+- [Indexing documentation](https://thegraph.com/docs/en/network/indexing/)
+- [How to become an effective Indexer](https://thegraph.com/blog/how-to-become-indexer/)
+- [Indexer Office Hours](https://twitter.com/TheGraphIOH)
 
 ### Curators
 - [Curation Station](https://t.me/CurationStation) - Telegram group
