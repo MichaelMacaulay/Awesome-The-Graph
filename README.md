@@ -96,6 +96,7 @@ This section will include resources for participating on The Graph's decentraliz
 - [Indexing documentation](https://thegraph.com/docs/en/network/indexing/)
 - [How to become an effective Indexer](https://thegraph.com/blog/how-to-become-indexer/)
 - [Indexer Office Hours](https://twitter.com/TheGraphIOH)
+- [Graphcast](https://thegraph.com/docs/en/graphcast/)
 
 ### Curators
 - [Curation Station](https://t.me/CurationStation) - Telegram group
