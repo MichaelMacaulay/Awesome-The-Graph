@@ -35,6 +35,8 @@ Sign up to [The Graph's Developer Newsletter](https://bdf2eca9.sibforms.com/serv
 - [The Graph Client](https://github.com/graphprotocol/graph-client)
 - [The Graph CLI](https://github.com/graphprotocol/graph-tooling/tree/main/packages/cli)
 - [Graph Node](https://github.com/graphprotocol/graph-node)
+- [Substreams](https://thegraph.com/docs/en/substreams/)
+- [Firehose](https://thegraph.com/docs/en/firehose/)
 
 ## Educational resources
 
