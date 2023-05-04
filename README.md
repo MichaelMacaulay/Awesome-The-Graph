@@ -66,7 +66,7 @@ Sign up to [The Graph's Developer Newsletter](https://bdf2eca9.sibforms.com/serv
 - [GRTiQ](https://www.grtiq.com/)
 - [Quarterly Graph Participant Updates](https://www.youtube.com/playlist?list=PLTqyKgxaGF3SerCqOuIT-FdaXZASg3U-C) - YouTube playlist
 - [The Graph Podcast](https://www.buzzsprout.com/2114418/share)
-- [Core Devs Meetings (YouTube playlist)](https://youtube.com/playlist?list=PLTqyKgxaGF3Tj_A6eqV8V_aQoRwd2oHa_)
+- [Core Devs Meetings](https://youtube.com/playlist?list=PLTqyKgxaGF3Tj_A6eqV8V_aQoRwd2oHa_) - YouTube playlist
 
 ## Community
 
