@@ -66,6 +66,7 @@ Sign up to [The Graph's Developer Newsletter](https://bdf2eca9.sibforms.com/serv
 - [GRTiQ](https://www.grtiq.com/)
 - [Quarterly Graph Participant Updates](https://www.youtube.com/playlist?list=PLTqyKgxaGF3SerCqOuIT-FdaXZASg3U-C) - YouTube playlist
 - [The Graph Podcast](https://www.buzzsprout.com/2114418/share)
+- [Core Devs Meetings (YouTube playlist)](https://youtube.com/playlist?list=PLTqyKgxaGF3Tj_A6eqV8V_aQoRwd2oHa_)
 
 ## Community
 
@@ -79,7 +80,7 @@ Sign up to [The Graph's Developer Newsletter](https://bdf2eca9.sibforms.com/serv
 - [Graph Advocates](https://thegraph.com/blog/graph-advocates/)
 
 ## Community events
-- [Core dev meetings](https://calendar.google.com/calendar/u/0/embed?src=info@thegraph.foundation)
+- [Core dev meetings calendar invite](https://calendar.google.com/calendar/u/0/embed?src=info@thegraph.foundation)
 - [Community talk](https://calendar.google.com/calendar/u/0/embed?src=info@thegraph.foundation) - a monthly meeting hosted by Graph Advocates on Discord
 - [Hackathons & Events](https://thegraph.com/blog/advocates-dao/)
 
