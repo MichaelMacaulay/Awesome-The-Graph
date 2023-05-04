@@ -27,6 +27,7 @@ Sign up to [The Graph's Developer Newsletter](https://bdf2eca9.sibforms.com/serv
     - [Delegators](#delegators)
     - [Subgraph Developers](#subgraph-developers)
     - [Data Consumers](#data-consumers)
+  - [Core developer team updates](#core-developer-team-updates)
   - [Core developer teams](#core-developer-teams)
   - [Join a core developer team](#join-a-core-developer-team)
 
@@ -66,7 +67,6 @@ Sign up to [The Graph's Developer Newsletter](https://bdf2eca9.sibforms.com/serv
 - [GRTiQ](https://www.grtiq.com/)
 - [Quarterly Graph Participant Updates](https://www.youtube.com/playlist?list=PLTqyKgxaGF3SerCqOuIT-FdaXZASg3U-C) - YouTube playlist
 - [The Graph Podcast](https://www.buzzsprout.com/2114418/share)
-- [Core Devs Meetings](https://youtube.com/playlist?list=PLTqyKgxaGF3Tj_A6eqV8V_aQoRwd2oHa_) - YouTube playlist
 
 ## Community
 
@@ -80,7 +80,6 @@ Sign up to [The Graph's Developer Newsletter](https://bdf2eca9.sibforms.com/serv
 - [Graph Advocates](https://thegraph.com/blog/graph-advocates/)
 
 ## Community events
-- [Core dev meetings calendar invite](https://calendar.google.com/calendar/u/0/embed?src=info@thegraph.foundation)
 - [Community talk](https://calendar.google.com/calendar/u/0/embed?src=info@thegraph.foundation) - a monthly meeting hosted by Graph Advocates on Discord
 - [Hackathons & Events](https://thegraph.com/blog/advocates-dao/)
 
@@ -120,6 +119,11 @@ This section will include resources for participating on The Graph's decentraliz
 - [Querying The Graph](https://thegraph.com/docs/en/querying/querying-the-graph/)
 - [Querying Best Practices](https://thegraph.com/docs/en/querying/querying-best-practices/)
 - [Querying from an Application](https://thegraph.com/docs/en/querying/querying-from-an-application/)
+
+## Core developer team updates
+- [Core dev meetings](https://calendar.google.com/calendar/u/0/embed?src=info@thegraph.foundation) - calendar invite
+- [Forum posts](https://forum.thegraph.com/c/research/cd-1-pager-updates/70)
+- [Core Devs Meetings](https://youtube.com/playlist?list=PLTqyKgxaGF3Tj_A6eqV8V_aQoRwd2oHa_) - YouTube playlist
 
 ## Core developer teams
 - [Edge and Node](https://edgeandnode.com/)
