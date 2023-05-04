@@ -65,11 +65,12 @@ Sign up to [The Graph's Developer Newsletter](https://bdf2eca9.sibforms.com/serv
 - [YouTube](https://www.youtube.com/graphprotocol)
 - [GRTiQ](https://www.grtiq.com/)
 - [Quarterly Graph Participant Updates](https://www.youtube.com/playlist?list=PLTqyKgxaGF3SerCqOuIT-FdaXZASg3U-C) - YouTube playlist
+- [The Graph Podcast](https://www.buzzsprout.com/2114418/share)
 
 ## Community
 
 - [Forum](https://forum.thegraph.com/)
-- [Graph Improvement Proposol Repo](https://github.com/graphprotocol/graph-improvement-proposals)
+- [Graph Improvement Proposal (GIP) Repo](https://github.com/graphprotocol/graph-improvement-proposals)
 - [Telegram](https://t.me/graphprotocol)
 - [Discord](https://discord.gg/vtvv7FP)
 - [Twitter](https://twitter.com/thegraph)
