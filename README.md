@@ -114,6 +114,7 @@ This section will include resources for participating on The Graph's decentraliz
 - [Overview of Subgraph Development](https://thegraph.com/docs/en/network/developing/)
 - [Matchstick](https://thegraph.com/docs/en/developing/unit-testing-framework/) - A unit testing framework for subgraphs
 - [SubgraphDAO](https://twitter.com/SubgraphDAO)
+- [Two Simple Subgraph Performance Improvements](https://thegraph.com/blog/two-simple-subgraph-performance-improvements/)
 
 ### Data Consumers
 - [Querying The Graph](https://thegraph.com/docs/en/querying/querying-the-graph/)
