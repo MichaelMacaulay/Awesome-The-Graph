@@ -42,6 +42,7 @@ Sign up to [The Graph's Developer Newsletter](https://bdf2eca9.sibforms.com/serv
 ## Educational resources
 
 - [Introduction to The Graph](https://thegraph.com/blog/introduction-to-the-graph/)
+- [The Graph: Reading Data, The Web3 Way](https://stanfordblockchainreview.substack.com/p/the-graph-reading-data-the-web3-way)
 - [23 Ways to Participate in The Graph Ecosystem](https://thegraph.com/blog/get-involved-with-graph-community-web3/)
 - [Documentation](https://thegraph.com/docs/)
 - [Graph Academy](https://thegraph.academy/)
