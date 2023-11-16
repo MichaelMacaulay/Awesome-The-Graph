@@ -135,6 +135,8 @@ This section will include resources for participating on The Graph's decentraliz
 - [The Guild](https://the-guild.dev/)
 - [Messari](https://messari.io/)
 - [GraphOps](https://graphops.xyz/)
+- [Pinax](https://pinax.network/en)
+- [Geo](https://www.geobrowser.io/)
 
 ## Join a core developer team
 - [Jobs in The Graph Ecosystem](https://thegraph.com/jobs/)
