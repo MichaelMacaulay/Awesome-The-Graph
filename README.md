@@ -23,7 +23,6 @@ Sign up to [The Graph's Developer Newsletter](https://bdf2eca9.sibforms.com/serv
   - [Dapps](#dapps)
   - [Participating on The Graph's decentralized network](#participating-on-the-graphs-decentralized-network)
     - [Indexers](#indexers)
-    - [Curators](#curators)
     - [Delegators](#delegators)
     - [Subgraph Developers](#subgraph-developers)
     - [Data Consumers](#data-consumers)
@@ -57,7 +56,7 @@ Sign up to [The Graph's Developer Newsletter](https://bdf2eca9.sibforms.com/serv
 
 ## Tutorials
 - [Quick Start](https://thegraph.com/docs/en/cookbook/quick-start/)
-- [Migrate a subgraph to The Graph's decentralized network](https://thegraph.com/docs/en/cookbook/migrating-a-subgraph/)
+- [Upgrade a subgraph to The Graph's decentralized network](https://thegraph.com/docs/en/cookbook/upgrading-a-subgraph/)
 - [Easily Improve Subgraph Indexing Performance](https://thegraph.com/blog/improve-subgraph-performance-reduce-eth-calls/)
 - [Using Subgraphs on Base Testnet](https://www.youtube.com/watch?v=mwgN9vwLOBw)
 - [The Complete Guide to Getting Started With The Graph](https://camiinthisthang.hashnode.dev/the-complete-guide-to-getting-started-with-the-graph)
@@ -91,7 +90,7 @@ Sign up to [The Graph's Developer Newsletter](https://bdf2eca9.sibforms.com/serv
 
 ## Participating on The Graph's decentralized network
 
-This section will include resources for participating on The Graph's decentralized network as one of the [network roles](https://thegraph.com/docs/en/#network-roles): Indexer, Curator, Delegator, Subgraph Developer, or Data Consumer.
+This section will include resources for participating on The Graph's decentralized network as one of the [network roles](https://thegraph.com/docs/en/#network-roles): Indexer, Delegator, subgraph developer, data consumers.
 
 ### Indexers
 - [Indexer components & infrastructure](https://github.com/graphprotocol/indexer)
@@ -101,10 +100,6 @@ This section will include resources for participating on The Graph's decentraliz
 - [How to become an effective Indexer](https://thegraph.com/blog/how-to-become-indexer/)
 - [Indexer Office Hours](https://twitter.com/TheGraphIOH)
 - [Graphcast](https://thegraph.com/docs/en/graphcast/)
-
-### Curators
-- [Curation Station](https://t.me/CurationStation) - Telegram group
-- [Curation Guide](https://thegraph.com/docs/en/network/curating/)
 
 ### Delegators
 - [Graphtronauts](https://graphtronauts.com/)
