@@ -2,11 +2,13 @@
 
 ![Awesome The Graph](https://storage.googleapis.com/graph-blog/get-involved-with-graph-community-web3/Header_The%20Graph%20Community%404x.jpg)
 
+> **Note**: All hosted service developers are encouraged to upgrade their subgraphs to The Graph Network by June 12th, 2024. [Read more here](https://thegraph.com/blog/sunbeam-upgrade-window/)
+
 A curated list of awesome resources related to [The Graph](https://thegraph.com/).
 
 If you're looking for a beginner-friendly place to start, check out the [this blog post](https://thegraph.com/blog/introduction-to-the-graph/).
 
-If you run into any terms or phrases that you don't understand, check out [The Graph's Glossary](https://thegraph.com/docs/en/glossary/).
+If you run into any confusing words or phrases, check out [The Graph's Glossary](https://thegraph.com/docs/en/glossary/).
 
 Sign up to [The Graph's Developer Newsletter](https://bdf2eca9.sibforms.com/serve/MUIEAAP7mWSFRPoNIyFZSMhS9Sk0tvGPKSB0rcRoOaSmWy61ZXpAgue6ZyIzhsJoeqHwkKg0kWAAQeHLH9XK5Blg6wT00da6JPIW_BrBoMl87K2_KmK_E4ltKbxfQCgQ2uXK0mE8SPIbXESbXIVxZEVinCtlNqF3ctoPjPyMqB8QP-ps9SAnWfpopp6loRHJe7wSSFRswUuBoB0K) for new tutorials, tips, and ecosystem updates!
 
