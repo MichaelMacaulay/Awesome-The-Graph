@@ -46,7 +46,6 @@ Sign up to [The Graph's Developer Newsletter](https://bdf2eca9.sibforms.com/serv
 - [The Graph: Reading Data, The Web3 Way](https://stanfordblockchainreview.substack.com/p/the-graph-reading-data-the-web3-way)
 - [23 Ways to Participate in The Graph Ecosystem](https://thegraph.com/blog/get-involved-with-graph-community-web3/)
 - [Documentation](https://thegraph.com/docs/)
-- [Graph Academy](https://thegraph.academy/)
 - [GRT Tokenomics](https://thegraph.com/docs/en/tokenomics/)
 - [The Graph's Glossary](https://thegraph.com/docs/en/glossary/)
 - [Blog Posts](https://thegraph.com/blog/)
