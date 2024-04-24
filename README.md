@@ -2,7 +2,7 @@
 
 ![Awesome The Graph](https://storage.googleapis.com/graph-blog/get-involved-with-graph-community-web3/Header_The%20Graph%20Community%404x.jpg)
 
-> **Note**: All hosted service developers must upgrade their subgraphs to The Graph Network by June 12th, 2024. [Read more here](https://thegraph.com/blog/sunbeam-upgrade-window/)
+> **Note**: All hosted service developers must upgrade their subgraphs to The Graph Network by June 12th, 2024. [Read more here].(https://thegraph.com/blog/sunbeam-upgrade-window/)
 
 A curated list of awesome resources related to [The Graph](https://thegraph.com/).
 
