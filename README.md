@@ -8,12 +8,13 @@ If you're looking for a beginner-friendly place to start, check out the [this bl
 
 If you run into any confusing words or phrases, check out [The Graph's Glossary](https://thegraph.com/docs/en/glossary/).
 
-Sign up to [The Graph's Developer Newsletter](https://bdf2eca9.sibforms.com/serve/MUIEAAP7mWSFRPoNIyFZSMhS9Sk0tvGPKSB0rcRoOaSmWy61ZXpAgue6ZyIzhsJoeqHwkKg0kWAAQeHLH9XK5Blg6wT00da6JPIW_BrBoMl87K2_KmK_E4ltKbxfQCgQ2uXK0mE8SPIbXESbXIVxZEVinCtlNqF3ctoPjPyMqB8QP-ps9SAnWfpopp6loRHJe7wSSFRswUuBoB0K) for new tutorials, tips, and ecosystem updates!
+Sign up to [The Graph's Builders Newsletter](https://bdf2eca9.sibforms.com/serve/MUIEAAP7mWSFRPoNIyFZSMhS9Sk0tvGPKSB0rcRoOaSmWy61ZXpAgue6ZyIzhsJoeqHwkKg0kWAAQeHLH9XK5Blg6wT00da6JPIW_BrBoMl87K2_KmK_E4ltKbxfQCgQ2uXK0mE8SPIbXESbXIVxZEVinCtlNqF3ctoPjPyMqB8QP-ps9SAnWfpopp6loRHJe7wSSFRswUuBoB0K) for new tutorials, tips, and ecosystem updates!
 
 ## Contents
 
 - [Awesome-The-Graph](#awesome-the-graph)
   - [Contents](#contents)
+  - [Products](#products)
   - [Libraries and frameworks](#libraries-and-frameworks)
   - [Educational resources](#educational-resources)
   - [Tutorials](#tutorials)
@@ -30,7 +31,14 @@ Sign up to [The Graph's Developer Newsletter](https://bdf2eca9.sibforms.com/serv
   - [Core developer teams](#core-developer-teams)
   - [Join a core developer team](#join-a-core-developer-team)
 
+## Products
+
+- [Subgraphs](https://thegraph.com/docs/en/subgraphs/developing/subgraphs/): Open APIs to query blockchain data that can be created or queried by anyone. Perfect for flexible historical queries, dapp frontends, and custom analytics.
+- [Substreams](https://thegraph.com/docs/en/substreams/introduction/): High-performance data streams for real-time blockchain processing, built with modular components. This is perfect for custom real-time data streams such as high-frequency trading & analytics.
+- [Token API Beta](https://thegraph.com/docs/en/token-api/quick-start/): Instant access to standardized token data requiring zero setup. Perfect for instant token data such as wallet balances, and transfer events.
+
 ## Libraries and frameworks
+
 - [The Graph TypeScript Library](https://github.com/graphprotocol/graph-tooling/tree/main/packages/ts)
 - [The Graph Client](https://github.com/graphprotocol/graph-client)
 - [The Graph CLI](https://github.com/graphprotocol/graph-tooling/tree/main/packages/cli)
@@ -52,8 +60,8 @@ Sign up to [The Graph's Developer Newsletter](https://bdf2eca9.sibforms.com/serv
 - [GRTDataHub](https://grtdatahub.com/)
 - [Real-time quality of service dashboard](https://mips-qos.streamlit.app/)
 
-
 ## Tutorials
+
 - [Quick Start](https://thegraph.com/docs/en/cookbook/quick-start/)
 - [Upgrade a subgraph to The Graph's decentralized network](https://thegraph.com/docs/en/cookbook/upgrading-a-subgraph/)
 - [Easily Improve Subgraph Indexing Performance](https://thegraph.com/blog/improve-subgraph-performance-reduce-eth-calls/)
@@ -61,6 +69,7 @@ Sign up to [The Graph's Developer Newsletter](https://bdf2eca9.sibforms.com/serv
 - [The Complete Guide to Getting Started With The Graph](https://camiinthisthang.hashnode.dev/the-complete-guide-to-getting-started-with-the-graph)
 
 ## Media
+
 - [The Graph's Developer Newsletter](https://bdf2eca9.sibforms.com/serve/MUIEAAP7mWSFRPoNIyFZSMhS9Sk0tvGPKSB0rcRoOaSmWy61ZXpAgue6ZyIzhsJoeqHwkKg0kWAAQeHLH9XK5Blg6wT00da6JPIW_BrBoMl87K2_KmK_E4ltKbxfQCgQ2uXK0mE8SPIbXESbXIVxZEVinCtlNqF3ctoPjPyMqB8QP-ps9SAnWfpopp6loRHJe7wSSFRswUuBoB0K)
 - [The Index](https://directory.libsyn.com/shows/view/id/theindex)
 - [YouTube](https://www.youtube.com/graphprotocol)
@@ -80,10 +89,12 @@ Sign up to [The Graph's Developer Newsletter](https://bdf2eca9.sibforms.com/serv
 - [Graph Advocates](https://thegraph.com/blog/graph-advocates/)
 
 ## Community events
+
 - [Community talk](https://calendar.google.com/calendar/u/0/embed?src=info@thegraph.foundation) - a monthly meeting hosted by Graph Advocates on Discord
 - [Hackathons & Events](https://thegraph.com/blog/advocates-dao/)
 
 ## Dapps
+
 - [Graph Explorer](https://thegraph.com/explorer/)
 - [Subgraph Studio](https://thegraph.com/studio/)
 
@@ -92,6 +103,7 @@ Sign up to [The Graph's Developer Newsletter](https://bdf2eca9.sibforms.com/serv
 This section will include resources for participating on The Graph's decentralized network as one of the [network roles](https://thegraph.com/docs/en/#network-roles): Indexer, Delegator, subgraph developer, data consumers.
 
 ### Indexers
+
 - [Indexer components & infrastructure](https://github.com/graphprotocol/indexer)
 - [Allocation Optimizer](https://github.com/graphprotocol/allocation-optimizer)
 - [AutoAgora](https://github.com/semiotic-ai/autoagora)
@@ -101,27 +113,32 @@ This section will include resources for participating on The Graph's decentraliz
 - [Graphcast](https://thegraph.com/docs/en/graphcast/)
 
 ### Delegators
+
 - [Graphtronauts](https://graphtronauts.com/)
 - [Short Delegation Tutorial](https://www.youtube.com/watch?v=yQamugqJlmQ)
 - [Advanced Delegation Guide](https://thegraph.com/docs/en/network/delegating/)
 - [Choosing an Indexer to delegate GRT to](https://thegraph.academy/delegators/choosing-indexers/)
 
 ### Subgraph Developers
+
 - [Overview of Subgraph Development](https://thegraph.com/docs/en/network/developing/)
 - [Matchstick](https://thegraph.com/docs/en/developing/unit-testing-framework/) - A unit testing framework for subgraphs
 - [Two Simple Subgraph Performance Improvements](https://thegraph.com/blog/two-simple-subgraph-performance-improvements/)
 
 ### Data Consumers
+
 - [Querying The Graph](https://thegraph.com/docs/en/querying/querying-the-graph/)
 - [Querying Best Practices](https://thegraph.com/docs/en/querying/querying-best-practices/)
 - [Querying from an Application](https://thegraph.com/docs/en/querying/querying-from-an-application/)
 
 ## Core developer team updates
+
 - [Core dev meetings](https://calendar.google.com/calendar/u/0/embed?src=info@thegraph.foundation) - calendar invite
 - [Forum posts](https://forum.thegraph.com/c/research/cd-1-pager-updates/70)
 - [Core Devs Meetings](https://youtube.com/playlist?list=PLTqyKgxaGF3Tj_A6eqV8V_aQoRwd2oHa_) - YouTube playlist
 
 ## Core developer teams
+
 - [Edge and Node](https://edgeandnode.com/)
 - [Streaming Fast](https://www.streamingfast.io/)
 - [Semiotic Labs](https://semiotic.ai/)
@@ -132,4 +149,5 @@ This section will include resources for participating on The Graph's decentraliz
 - [Geo](https://www.geobrowser.io/)
 
 ## Join a core developer team
+
 - [Jobs in The Graph Ecosystem](https://thegraph.com/jobs/)
